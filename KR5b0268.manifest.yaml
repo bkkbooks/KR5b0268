@@ -39,12 +39,12 @@ assets:
   - {seq: 4, filename: KR5b0268_004.yaml, hash: 'sha256:bdcadde43ab773d414520a0908ced8a9ae2f9f872297f00f664929de065d826d'}
   - {seq: 5, filename: KR5b0268_005.yaml, hash: 'sha256:b67029981a9b7530d0aad06c8fc76f545de563b2d499a0cd0824fbcf393446e6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0268_000.markers.yaml, hash: 'sha256:dc3cffaf21065dd8b4e0ab4ebf511d359f081793320c532a9ddf7da33fde121b'}
-  - {seq: 1, role: markers, filename: assets/KR5b0268_001.markers.yaml, hash: 'sha256:b33439bc47dedb6120242cbc8a8d8a02f283045337d1ea9d38f1d312aaa1a727'}
-  - {seq: 2, role: markers, filename: assets/KR5b0268_002.markers.yaml, hash: 'sha256:e4124746f94f8f90c9258ed063988e7df977bf34d569c01457e492683ebc86ac'}
-  - {seq: 3, role: markers, filename: assets/KR5b0268_003.markers.yaml, hash: 'sha256:4cb3e55136faba67f55ed020c2937151b44c9f24a40421f68dc7155402e89f37'}
+  - {seq: 0, role: markers, filename: assets/KR5b0268_000.markers.yaml, hash: 'sha256:b3e9dee13e0f32fb27fe76f5ea6dd215c4a88ed09cdf8c074eea31adb7cea63c'}
+  - {seq: 1, role: markers, filename: assets/KR5b0268_001.markers.yaml, hash: 'sha256:be1ce17bf99fc1f75aa6673bf0303d793bc07220f9907572970595971b5b271c'}
+  - {seq: 2, role: markers, filename: assets/KR5b0268_002.markers.yaml, hash: 'sha256:626484392848b67076432f71331ed4f088e7148172202161e69639544687106e'}
+  - {seq: 3, role: markers, filename: assets/KR5b0268_003.markers.yaml, hash: 'sha256:f7fb5cb696f21bd4c4cf147df56f99169cb151524e0ad5210784635b863666c0'}
   - {seq: 4, role: markers, filename: assets/KR5b0268_004.markers.yaml, hash: 'sha256:8fbbc4beccf36f73ddd2a087c6dc872852a1ce1003ab4c6cdd46888f785bbdf6'}
-  - {seq: 5, role: markers, filename: assets/KR5b0268_005.markers.yaml, hash: 'sha256:4bffd6962dc83bda420ebc946473809b8337592451a3a39fc39501dfaeb5b53b'}
+  - {seq: 5, role: markers, filename: assets/KR5b0268_005.markers.yaml, hash: 'sha256:5d89335c0b583094faf68fb45efcd2e57a1800844f1d21d0b55e7ac02e77639c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -106,7 +106,7 @@ table_of_contents:
   label: juan 005
   type: section
   level: 1
-hash: sha256:7a42cd2201ec602261e9beffc20154410bda8ac8cc7cafa4d8d60edf64dfb396
+hash: sha256:d9b1364936abc91b0a02a62a00510dbf1cef51b3c9c5b4ca7138a5c908ca3db8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
